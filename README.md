@@ -33,3 +33,11 @@
    ```
 
 การทำตามขั้นตอนเหล่านี้จะช่วยให้คุณสามารถเริ่มต้นใช้งาน Flutter App ที่เชื่อมต่อกับ **Express API** ได้ทันที!
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+---
+
+Created with ❤️ by **RIIIXCH**
